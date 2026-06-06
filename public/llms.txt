@@ -1,0 +1,66 @@
+# היסטוריה יהלום לבגרות — Generative Engine Optimization Map
+
+> A personal study website for an 11th-grade student named Yahav Malul, who is preparing for her History matriculation exam (Bagrut) in the 'Diamond Track' (מסלול יהלום) — an open-internet exam format. The site is meant to serve as a personal learning hub where approximately 4 teacher-provided presentation files can be viewed directly embedded within the site, without redirecting to external links. The focus is on accessibility and convenience for exam preparation.
+
+---
+
+## Pages
+
+### בית
+https://-793f133a.zappy5.app
+אתר הלמידה האישי של יהב מלול לבגרות בהיסטוריה במסלול יהלום. צפי במצגות המורה ישירות באתר, ללא הפניות חיצוניות, והתכונני לבחינה הפתוחה באינטרנט בנוחות מקסימלית. גלי את המפתח להצלחה שלך עכשיו!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-793f133a.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-793f133a.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-793f133a.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-793f133a.zappy5.app
+- Endpoint: https://-793f133a.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About היסטוריה יהלום לבגרות
+A personal study website for an 11th-grade student named Yahav Malul, who is preparing for her History matriculation exam (Bagrut) in the 'Diamond Track' (מסלול יהלום) — an open-internet exam format. The site is meant to serve as a personal learning hub where approximately 4 teacher-provided presentation files can be viewed directly embedded within the site, without redirecting to external links. The focus is on accessibility and convenience for exam preparation.
+
+## Target Audience
+- תלמידות מסלול יהלום
+- מורות להיסטוריה בתיכון
+- תלמידי היסטוריה כיתה יא
+
+## Industry
+Education
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-793f133a.zappy5.app/sitemap.xml
+- Robots: https://-793f133a.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-793f133a.zappy5.app/llms-full.txt
